@@ -12,5 +12,6 @@ public class Main {
         System.out.println("Purchase Price : $ " + purchasePrice);
         System.out.println("Sales Tax : $ " + salesTax);
         System.out.println("Total Price : $ " + totalPrice);
+
     }
 }
